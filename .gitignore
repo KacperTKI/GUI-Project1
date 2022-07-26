@@ -8,12 +8,12 @@
 hs_err_pid*
 
 # IntelliJ
-out/
-.idea/
 .idea_modules/
 *.iml
 *.ipr
 *.iws
+.idea/
+out/
 
 # OS X
 .DS_Store
